@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Davide</h1>
-<h3 align="center">I love coding almost as much as coffee.</h3>
+<h3 align="center">I love coding as much as coffee. :coffee: </h3> 
 
 Who doesn't love a ```<ul>``` :  
 
