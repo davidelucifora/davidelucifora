@@ -9,6 +9,7 @@ Who doesn't love a ```<ul>``` :
 - 👩‍❤️‍👨 I'm bootstrapping a small web development and digital marketing agency with my wife.  
 - 👨‍💻 I love everything related to technology.   
 - 🌍 I speak English, Italian, Spanish and Russian fluently, Intermediate French and studying Mandarin 🇬🇧 🇮🇹 🇪🇸 🇷🇺 🇫🇷 🇨🇳   
+- 🧘 I lived in India where I became a certified Yoga and Meditation teacher.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
