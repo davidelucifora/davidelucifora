@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Davide</h1>
 <h3 align="center">I love coding almost as much as coffee.</h3>
 
-Who doesn't love a <ul>? :  
+Who doesn't love a ```<ul>``` :  
 
 - 🌱 I’m currently learning **React**. 
 - 💻 Once I'll master React I will work on getting frontend development experience while studying **Node** to become a fullstack dev. 🌐   
