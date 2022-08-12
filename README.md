@@ -18,7 +18,7 @@ I love coding as much as coffee. :coffee: (That's A LOT!).\
 ### Connect with me:
 
 <a href="https://linkedin.com/in/davidelucifora" target="blank"><img align="center" src="https://user-images.githubusercontent.com/40455204/184381877-7621ea19-688d-48a8-a901-2b2de8ffcdbb.png" alt="davidelucifora.photo" width="40" /></a> 
-<a href="https://instagram.com/davidelucifora.photo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davidelucifora.photo" width="40" /></a>
+<a href="https://instagram.com/davidelucifora.photo" target="blank"><img align="center" src="https://user-images.githubusercontent.com/40455204/184385371-a17fc5e1-e92d-4c82-8ffa-ab521b1937e3.png" alt="davidelucifora.photo" width="40" /></a>
 </p>
 
 ### Languages and Tools:
