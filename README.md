@@ -1,7 +1,7 @@
 # Hi 👋, I'm Davide.  
-I love coding as much as coffee. :coffee: (That's A LOT!).     
+I love coding as much as coffee. :coffee: (That's A LOT!).\\\  
 
-Who doesn't love a ```<ul>``` :  
+### Who doesn't love a ```<ul>``` :  
 
 - 🌱 I’m currently learning **React**. 
 - 💻 Once I'll master React I will work on getting frontend development experience while studying **Node** to become a fullstack dev. 🌐   
