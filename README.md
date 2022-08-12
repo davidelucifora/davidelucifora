@@ -1,7 +1,5 @@
 # Hi 👋, I'm Davide.  
 I love coding as much as coffee. :coffee: (That's A LOT!).\
-\
-&nbsp;
 
 ---
 
