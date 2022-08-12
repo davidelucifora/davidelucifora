@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Davide</h1>
 <h3 align="center">I love coding almost as much as coffee.</h3>
 
-🌱 I’m currently learning **React** /
-💻 Once I'll master React I will work on getting frontend development experience while studying **Node** to become a fullstack dev. 🌐 /
-🕴 I work full time in SaaS as an Account Executive and I'm bootstrapping a small web development and digital marketing agency with my wife. 👩‍❤️‍👨 I love everything technology. 
-I speak English, Italian, Spanish and Russian fluently, Intermediate French and studying Mandarin 🇬🇧 🇮🇹 🇪🇸 🇷🇺 🇫🇷 🇨🇳 
+🌱 I’m currently learning **React**. 
+💻 Once I'll master React I will work on getting frontend development experience while studying **Node** to become a fullstack dev. 🌐   
+🕴 I work full time in SaaS as an Account Executive. 
+👩‍❤️‍👨 I'm bootstrapping a small web development and digital marketing agency with my wife.  
+👨‍💻 I love everything related to technology.   
+🌍 I speak English, Italian, Spanish and Russian fluently, Intermediate French and studying Mandarin 🇬🇧 🇮🇹 🇪🇸 🇷🇺 🇫🇷 🇨🇳   
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
