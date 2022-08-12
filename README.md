@@ -1,5 +1,5 @@
-###Hi 👋, I'm Davide
-##I love coding as much as coffee. :coffee: 
+### Hi 👋, I'm Davide. 
+## I love coding as much as coffee. :coffee: 
 
 Who doesn't love a ```<ul>``` :  
 
