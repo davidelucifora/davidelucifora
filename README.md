@@ -13,9 +13,11 @@ I love coding as much as coffee. :coffee: (That's A LOT!).\
 - 🌍 I speak English, Italian, Spanish and Russian fluently, Intermediate French and studying Mandarin 🇬🇧 🇮🇹 🇪🇸 🇷🇺 🇫🇷 🇨🇳   
 - 🧘 I lived in India where I became a certified Yoga and Meditation teacher.
 
+---
+
 ### Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/davidelucifora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davidelucifora" height="30" width="40" /></a>
+[a href="https://linkedin.com/in/davidelucifora" target="blank"]![image](https://user-images.githubusercontent.com/40455204/184381877-7621ea19-688d-48a8-a901-2b2de8ffcdbb.png)
 <a href="https://instagram.com/davidelucifora.photo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davidelucifora.photo" height="30" width="40" /></a>
 </p>
 
