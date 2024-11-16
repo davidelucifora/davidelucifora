@@ -5,10 +5,9 @@ I love coding as much as coffee. :coffee: (That's A LOT!).\
 
 ### Who doesn't love a ```<ul>``` :  
 
-- 🌱 I’m currently learning **React**. 
-- 💻 Once I'll master React I will work on getting frontend development experience while studying **Node** to become a fullstack dev. 🌐   
-- 📊 I work full time in SaaS as an Account Executive. 
-- 👩‍❤️‍👨 I'm bootstrapping a small web development and digital marketing agency with my wife.  
+- 🌱 I’m currently learning **React and Astro**. 
+- 💻 Once I'll master React I will work on getting Frontend development experience while studying **Node** to become a fullstack dev. 🌐   
+- 📊 I worked full time in SaaS as an Account Executive. 
 - 👨‍💻 I love everything related to technology.   
 - 🌍 I speak English, Italian, Spanish and Russian fluently, Intermediate French and studying Mandarin 🇬🇧 🇮🇹 🇪🇸 🇷🇺 🇫🇷 🇨🇳   
 - 🧘 I lived in India where I became a certified Yoga and Meditation teacher.
